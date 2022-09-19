@@ -414,6 +414,10 @@ footer {
         left: 0;
         z-index: 0;
     }
+    nav.container {
+        padding-left: 3.2rem;
+        padding-right: 3.2rem;
+    }
     .intro {
         max-width: 65%;
         margin: 0 auto;
@@ -477,6 +481,7 @@ footer {
    
 
     }
+    
 
     .logo {
         width: 150px;
