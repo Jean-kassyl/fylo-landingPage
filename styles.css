@@ -149,12 +149,12 @@ nav {
     background-color: var(--main-bg);
 }
 .features-wrapper{
-    padding-block: 120px;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 70px;
     padding: 0 1.5rem;
+    padding-block: 120px;
 }
 
 .feature-item {
