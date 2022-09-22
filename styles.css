@@ -715,7 +715,7 @@ footer {
     }
      */
     .address-info p {
-        font-size: 1rem;
+        font-size: .9rem;
         margin-left: -4px;
     }
     
@@ -729,7 +729,7 @@ footer {
     
     .footer-menu li {
         margin: 0;
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     .socials {
